@@ -36,10 +36,6 @@ namespace Teste
 
         public static void Main()
         {
-            Console.Title = "Calcular";
-            Console.BackgroundColor = ConsoleColor.White;
-            Console.ForegroundColor = ConsoleColor.Black;
-            Console.WindowHeight = 20;
             try
             {
                 Console.Write("Insira a operação:\n1 - Adição\n2 - Subtração\n3 - Multiplicação\n4 - Divisão\n5 - Potenciação\n");
